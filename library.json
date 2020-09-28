@@ -1,5 +1,5 @@
 {
-    "name": "Thread",
+    "name": "ArduinoThread",
     "keywords": "thread, task",
     "description": "A library for managing the periodic execution of multiple tasks",
     "repository":
